@@ -1,0 +1,1 @@
+full_name = "{} {}".format(first_name, last_name)
